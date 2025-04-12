@@ -17,7 +17,7 @@
     </div>
     <h1 style="text-align: center;">About Me</h1>
     </div>
-    <p>
+    <p style="text-align: justify;">
       I first began writing because I had an intense fear of speaking in front of people.
       I learned to channel my emotions and thoughts onto paper and slowly this became a habit.
     </p>
