@@ -1,7 +1,7 @@
 <!-- Banner Section -->
 <div align="center" style="margin: 20px 0;">
   <img 
-    src="Website%20Banner.png" 
+    src="Website%20banner%20version%202.png" 
     alt="Website Banner"
     style="max-width: auto; height: auto; border-radius: 16px;"
   />
