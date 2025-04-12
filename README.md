@@ -1,9 +1,9 @@
 <!-- Banner Section -->
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 10px 0;">
   <img 
     src="Website%20Banner.png" 
     alt="Website Banner"
-    style="max-width: 100%; height: auto; border-radius: 8px;"
+    style="max-width: 500%; height: auto; border-radius: 16px;"
   />
 </div>
 <!-- Opening Section -->
