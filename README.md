@@ -45,3 +45,10 @@
     </p>
   </div>
 </div>
+<!-- Second Section -->
+<div align="center" style="margin: 20px 0;">
+  <img 
+    src="Second%20Section.png" 
+    alt="Second"
+    style="max-width: auto; height: auto; border-radius: 16px;"
+  />
